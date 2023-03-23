@@ -1,0 +1,15 @@
+*{
+    margin: none;
+    padding: none;
+    list-style-type: none;
+}
+#lord{
+    text-align: center;
+    color: rgb(147, 235, 205);
+}
+#grade{
+    background-color : greenyellow;
+    text-align: center;
+    width: 100px;
+    overflow: hidden;
+}
